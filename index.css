@@ -1,0 +1,78 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color : rgba(208, 204, 204, 0.947) ;
+    margin : 0 ;
+}
+
+#div1 {
+    color : rgba(241, 239, 239, 0.97) ; 
+    background : rgb(19, 72, 204) ;
+    text-align: center;
+ 
+}
+
+#div1 h1 {
+    padding-top : 30px ;
+    padding-bottom : 10px ;
+}
+
+
+#div1 input {
+    margin-bottom : 30px ;
+    background : transparent ;
+    border : 1px solid rgba(241, 239, 239, 0.856) ;
+    width : 130px ;
+    padding : 20px ;
+    font-size : 70px ;
+    border-radius : 5px ;
+  
+}
+
+#div1 button  {
+    margin-bottom : 30px ;
+    padding : 10px 15px ;
+    background-color : whitesmoke ;
+    font-size : 16px ;
+    color : black ;
+    border : none ;
+    border-radius : 4px ;
+    width : 130px ;
+} 
+
+#div2 #div2a{
+    text-align : center;
+    background-color : white ;
+    margin-top : 40px ;
+    margin-left : 30px ;
+    margin-right : 30px ;
+    border-radius : 5px ;
+}
+
+#div2 #div2b{
+    text-align : center;
+    background-color : white ;
+    margin-left : 30px ;
+    margin-right : 30px ;
+    border-radius : 5px ;
+}
+
+#div2 #div2c{
+    text-align : center;
+    background-color : white ;
+    margin-left : 30px ;
+    margin-right : 30px ;
+    margin-bottom : 20px ;
+    border-radius : 5px ;
+}
+
+#div2 h2 {
+    padding-top : 26px ;
+    color : rgba(82, 54, 137, 0.803) ;
+
+}
+
+p {
+    padding-bottom : 24px ;
+    color : rgba(26, 26, 26, 0.895) ;
+    
+}
